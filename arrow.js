@@ -17,7 +17,7 @@ const add1 = function add1(num1, num2) {
 
 // console.log(add1(30, 100));
 
-// arrow function
+// function expression
 
 const divide = (x, y) => x / y;
 console.log(divide(21, 7));
